@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ridwanf
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Web Development (Vue)
+- 🌱 I’m currently learning Web Development (Vue, React) and Go
 - 💞️ I’m looking to collaborate on any kind technology
 - 📫 How to reach me ridwanfansuri@gmail.com
 
